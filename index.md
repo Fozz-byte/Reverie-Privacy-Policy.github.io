@@ -1,6 +1,6 @@
 # Reverie Privacy Policy
 
-Nov 16, 2026 · @Simon
+Last updated: 16 November 2026
 
 Reverie is a private dream journal. Your dreams stay on your device and, if you choose, in your own iCloud account. The developer never receives them.
 
